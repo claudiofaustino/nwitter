@@ -1,0 +1,15 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "0.8.4",
+    "express": "3.4.4",
+    "express-load": "1.1.7",
+    "express-validator": "2.6.0",
+    "mongoose": "^4.0.6"
+  }
+}
